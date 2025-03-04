@@ -1,0 +1,16 @@
+.media{
+    display: flex;
+    align-items: flex-start;
+    background: #F6F3EB;
+    padding: 1em;
+    border-radius: 3px;
+    max-width: 35em;
+}
+
+.media-object{
+    margin-right: 1em;
+}
+
+.media-heading{
+    margin: 0 0 .5em;
+}
